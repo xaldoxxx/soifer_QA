@@ -1,4 +1,4 @@
-# soifer_QA
+# soifer_QA - Uso de selenium y unitest en python.
 curso sobre automatizacion con selenium
 
 Estas son unas clases que estan grabadas en https://www.youtube.com/playlist?list=PLjM3-neCG6qys6vjn1GuWwKZKv3574sCZ
